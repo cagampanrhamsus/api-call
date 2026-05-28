@@ -5,9 +5,11 @@ ELEC 1
 API CALL – POSTMAN
 
 SHORT DESCRIPTION
+
 My project contains an API using Postman that can perform different requests such as GET, POST, PUT, PATCH, and DELETE.
 
 SETUP DESCRIPTION
+
 First, create a Laravel project using the command: laravel new "projectname"
 
 Next, create the model, migration, and controller using Artisan commands. Add the routes in api.php and create the students table using Laravel Tinker.
